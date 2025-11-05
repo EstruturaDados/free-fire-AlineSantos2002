@@ -121,3 +121,17 @@ Cada nível representa uma missão rumo à **sobrevivência total**.
 Escolha seu nível, prepare sua mochila... e **boa sorte na ilha!** 🏝️💼🔍
 
 > Equipe de Ensino – MateCheck
+
+## 🎯 Sistema de Mochila - Nível Mestre
+Sistema de gerenciamento de inventário com ordenação e busca
+
+### Funcionalidades Implementadas:
+- ✅ Struct Item com nome, tipo, quantidade e prioridade
+- ✅ Inserção, remoção e listagem de itens
+- ✅ Busca sequencial com contador de comparações
+- ✅ Ordenação por nome, tipo ou prioridade (Insertion Sort)
+- ✅ Busca binária com validação de ordenação
+- ✅ Análise de desempenho com contagem de comparações
+
+### Arquivo Principal:
+- `mochila_mestre.c` - Código fonte completo
